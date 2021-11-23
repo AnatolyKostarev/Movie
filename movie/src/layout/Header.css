@@ -1,0 +1,24 @@
+.header {
+  background: rgb(0, 162, 255);
+  color: #fff;
+  padding: 20px 50px;
+}
+.header .wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  font-weight: bold;
+  font-size: 20px;
+}
+.right {
+  text-align: right;
+}
+
+.email,
+.tel {
+  display: block;
+  text-decoration: none;
+  color: #fff;
+}
